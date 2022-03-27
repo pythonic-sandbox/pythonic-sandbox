@@ -7,4 +7,4 @@ If your PR is cleared we will add it to the repo.
 We will not fix any massive errors or pr's which contain many small errors, however we will fix very minor ones assuming there is only a few. 
 
 ## Features
-We have no features yet
+Sunday 27th March 2022: Random number generator, curtacy of @braillescreen. A very well, random start to the project, apologies for the pun. 
